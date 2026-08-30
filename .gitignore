@@ -1,0 +1,14 @@
+# React
+client/node_modules/
+client/build/
+
+# Python
+server/__pycache__/
+server/**/*.pyc
+server/.venv/
+server/venv/
+
+# Environment files
+.env
+server/.env
+client/.env
